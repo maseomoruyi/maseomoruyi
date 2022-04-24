@@ -1,5 +1,7 @@
 ### Hello There! 👋
 
+I'm Mase! Welcome to my GitHub Profile
+
 <!--
 **maseomoruyi/maseomoruyi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
