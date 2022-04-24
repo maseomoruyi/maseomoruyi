@@ -1,7 +1,9 @@
 ### Hello There! 👋
 
-I'm Mase! Welcome to my GitHub Profile. 
-I am an aspiring data analyst that has almost completed an intense data bootcamp and has successfully completed the Google Data Analytics Specialization course on Coursera!
+Welcome to my GitHub Profile. 
+I'm Mase: An aspiring data analyst!
+
+I am currently completely an intense data analysis and project management bootcamp and have successfully completed the Google Data Analytics Specialization course on Coursera!
 
 <!--
 **maseomoruyi/maseomoruyi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
