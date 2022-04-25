@@ -1,7 +1,7 @@
 ### Hello There! 👋
 
 Welcome to my GitHub Profile. 
-I'm Mase: An aspiring data analyst!
+I'm Mase: An Aspiring Data Analyst!
 
 I am currently completely an intense data analysis and project management bootcamp and have successfully completed the Google Data Analytics Specialization course on Coursera!
 
