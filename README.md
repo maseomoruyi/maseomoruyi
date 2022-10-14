@@ -1,7 +1,9 @@
 ### Hello There! 👋
 
 Welcome to my GitHub Profile. 
-I'm Mase: A Partnerships Analyst at Niyo Group!
+I'm Mase!
+
+I am the Partnerships Analyst at Niyo Group!
 
 I recently completed an intense data analysis and project management bootcamp and the Google Data Analytics Specialization course on Coursera!
 
