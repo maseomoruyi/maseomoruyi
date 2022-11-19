@@ -5,8 +5,6 @@ I'm Mase!
 
 I am the Partnerships Analyst at Niyo Group!
 
-I recently completed an intense data analysis and project management bootcamp and the Google Data Analytics Specialization course on Coursera!
-
 <!--
 **maseomoruyi/maseomoruyi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
